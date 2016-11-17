@@ -1,0 +1,11 @@
+Due to the file comparing tool, the entire scope of the file was reduced.
+
+This helped in limiting the area/zone in which the mistake can be.
+
+Once found correcting / changing it back is easier.
+
+Having easy access to the entire history will help us to go back to any version i want.
+
+There are times when a bug gets transported across several versions in a program.
+
+In such a situation going back 4-5 versions helps where we are sure that the program was running smoothly.
